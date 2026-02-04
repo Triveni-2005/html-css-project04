@@ -1,1 +1,1 @@
-# html-css-project04
+This project is a Youtube homepage UI clone developed using HTML and CSS. It replicates the core Structure of Youtube's interface, including the header, sidebar navigation, video thumbnails, titles, channel information, and grid-based layout. This project focuses on improving front-end skills such as flexbox/grid usage, responsive design, alignment, and clean UI structuring.
